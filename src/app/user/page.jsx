@@ -66,7 +66,7 @@ const UserDashboard = () => {
           <div className="flex flex-col md:flex-row items-center justify-between h-auto md:h-16 py-4 md:py-0">
             {/* Logo */}
             <div className="flex-shrink-0 mb-4 md:mb-0">
-              <h1 className="text-2xl font-bold text-indigo-700 dark:text-indigo-400">VeiledVision</h1>
+              <h1 className="text-2xl font-bold text-indigo-700 dark:text-indigo-400">Ascend</h1>
             </div>
 
             {/* Search Bars */}
