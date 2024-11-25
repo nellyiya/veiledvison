@@ -25,7 +25,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ---
 
 ## **Project Overview**
-This project is a Next.js application designed to [briefly describe the purpose, e.g., "provide career guidance and mentorship resources"]. It leverages modern web technologies to deliver a fast, scalable, and user-friendly platform.
+This is Veiledvision platform, project is a Next.js application designed to resources. It leverages modern web technologies to deliver a fast, scalable, and user-friendly platform.
 
 ---
 
