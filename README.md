@@ -184,4 +184,4 @@ Maintainer: [Nelly IYABIKOZE]
 Email: [n.iyabikoze@alustudent.com]  
 ---
 
-🚀 **Happy Coding!** 🚀
+🚀 **Happy Coding have fun!** 🚀
